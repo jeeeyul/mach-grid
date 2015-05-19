@@ -1,0 +1,44 @@
+#grid1 {
+	width: 1440px;
+	height: 500px;
+	margin: 0px auto;
+	border: solid 1px #ccc;
+	font-family: monospace;
+}
+
+div[data-role='mach-grid']>table>thead>tr>th
+{
+	background:linear-gradient(#eee, #ddd);
+	border-right: solid 1px #ccc;
+	text-shadow:0px 1px 1px white;
+	cursor: pointer;
+}
+
+div[data-role='mach-grid']>table>thead>tr>th:last-child
+{
+	border-right: none;
+}
+
+div[data-role='mach-grid']>table>tbody>tr:nth-child(even)
+{
+	background-color:#fafafa;
+}
+
+div[data-role='mach-grid']>table>tbody>tr:hover
+{
+	background-color:#eee;
+}
+
+div[data-role='mach-grid']>table>tbody>tr.selected {
+	background-color:#444;
+	color: white;
+}
+
+div[data-role='mach-grid']>table>tbody>tr>td {
+	text-align: right;
+	border-right: solid 1px #ccc;
+}
+div[data-role='mach-grid']>table>tbody>tr>td:last-child
+{
+	border-right: none;
+}
