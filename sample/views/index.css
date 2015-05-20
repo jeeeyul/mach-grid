@@ -1,9 +1,18 @@
+#toolbar {
+	width: 1440px;
+	margin: 0px auto;
+}
+
 #grid1 {
 	width: 1440px;
 	height: 500px;
 	margin: 0px auto;
 	border: solid 1px #ccc;
 	font-family: monospace;
+}
+
+#grid1 tbody tr {
+	height : 25px;
 }
 
 div[data-role='mach-grid']>table>thead>tr>th

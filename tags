@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+author	package.json	/^  "author": "jeeeyul@gmail.com",$/;"	f
+bugs	package.json	/^  "bugs": {$/;"	f
+description	package.json	/^  "description": "mach-grid",$/;"	f
+devDependencies	package.json	/^  "devDependencies" : {$/;"	f
+express	package.json	/^    "express" : "*"$/;"	f
+generateData	sample/views/index.js	/^function generateData(amount){$/;"	f
+homepage	package.json	/^  "homepage": "https:\/\/github.com\/jeeeyul\/mach-grid",$/;"	f
+jade	package.json	/^    "jade" : "*",$/;"	f
+license	package.json	/^  "license": "GPL3",$/;"	f
+main	package.json	/^  "main": "index.js",$/;"	f
+main	sample/views/index.js	/^function main(){$/;"	f
+name	package.json	/^  "name": "mach-grid",$/;"	f
+repository	package.json	/^  "repository": {$/;"	f
+scripts	package.json	/^  "scripts": {$/;"	f
+test	package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	f
+type	package.json	/^    "type": "git",$/;"	f
+url	package.json	/^    "url": "https:\/\/github.com\/jeeeyul\/mach-grid.git"$/;"	f
+url	package.json	/^    "url": "https:\/\/github.com\/jeeeyul\/mach-grid\/issues"$/;"	f
+version	package.json	/^  "version": "1.0.0",$/;"	f
